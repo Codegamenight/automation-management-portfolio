@@ -29,7 +29,7 @@ A comprehensive operations improvement programme focused on automation environme
 
 **Outcome**
 An executive-ready operations playbook suitable for Automation Manager or Operations Manager roles.
- project completed
+ NOTE:"This project is completed"
 
 ### 02. Smart Factory / Warehouse Automation Digital Twin
 A conceptual and technical system design for a modern automated facility.
