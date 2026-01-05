@@ -1,3 +1,4 @@
+HEAD
 # Automation & Engineering Management Portfolio
 
 ## Overview
@@ -14,8 +15,6 @@ The focus is not on tooling alone, but on:
 
 All projects are completed using free tools and local development environments.
 
----
-
 ## Project Index
 
 ### 01. Automation Operations Excellence Programme
@@ -31,8 +30,6 @@ A comprehensive operations improvement programme focused on automation environme
 **Outcome**
 An executive-ready operations playbook suitable for Automation Manager or Operations Manager roles.
 
----
-
 ### 02. Smart Factory / Warehouse Automation Digital Twin
 A conceptual and technical system design for a modern automated facility.
 
@@ -45,8 +42,6 @@ A conceptual and technical system design for a modern automated facility.
 
 **Outcome**
 A strategic digital twin design demonstrating systems-level leadership.
-
----
 
 ### 03. Engineering Management Toolkit
 A reusable toolkit that defines how technical teams are led and governed.
@@ -61,8 +56,6 @@ A reusable toolkit that defines how technical teams are led and governed.
 **Outcome**
 A practical management operating system for engineering leaders.
 
----
-
 ### 04. Data-Driven Operations Improvement
 An analytical project demonstrating how data informs operational decisions.
 
@@ -76,8 +69,6 @@ An analytical project demonstrating how data informs operational decisions.
 **Outcome**
 A data-backed improvement case aligned with automation and operations leadership.
 
----
-
 ## Delivery Principles
 - Zero cloud cost
 - No external hardware required
@@ -85,8 +76,9 @@ A data-backed improvement case aligned with automation and operations leadership
 - Governance-first approach
 - Finish one project before starting the next
 
----
-
 ## Author
 Victor Olaye  
 Automation & Engineering Leadership Portfolio
+
+# automation-management-portfolio
+ 631bc12c0203fc91a0fec91eef2b45c740c9a51b
